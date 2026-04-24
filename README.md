@@ -21,25 +21,39 @@ I work across the full stack — from backend architecture to frontend interface
 
 ## 🧠 Tech Stack
 
-**Backend**
-- Node.js, NestJS
-- REST APIs, integrations
-- Docker
+Backend-focused Full Stack Developer with experience in APIs, integrations, and scalable systems.
 
-**Frontend**
-- React, Next.js
-- Angular
+### 🚀 Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+</p>
 
-**Mobile**
-- Flutter
+### 🎨 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+</p>
 
-**Database**
-- PostgreSQL, SQL Server
-- Firebase (Firestore)
+### 📱 Mobile
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+</p>
 
-**Others**
-- Git, Docker, Linux
-- System architecture & API design
+### 🗄️ Database
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
 
 ---
 
